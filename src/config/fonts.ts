@@ -5,7 +5,7 @@ export const montserrat = Montserrat({
   subsets: ["latin"],
 });
 
-export const montserratAlternates = Montserrat_Alternates({
+export const titleFont = Montserrat_Alternates({
   variable: "--font-montserrat-alternates",
   subsets: ["latin"],
   weight: ["500", "700"],
